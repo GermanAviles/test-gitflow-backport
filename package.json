@@ -1,0 +1,15 @@
+{
+  "name": "test-gitflow-backport",
+  "version": "1.0.0",
+  "description": "test to backport action",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test-gitflow-backport.git"
+  },
+  "author": "germanAviles",
+  "license": "ISC"
+}
